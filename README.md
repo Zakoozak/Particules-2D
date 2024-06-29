@@ -1,3 +1,17 @@
+graphical interface to simulate the reaction of particles in a given situations  
+intro  : 
+![](gif/intro.gif)  
+
+orbit:  
+![](gif/orbit.gif)  
+
+trail: 
+![](gif/trail.gif)  
+
+Equilibrum:  
+![](gif/equilibrium.gif)
+  
+
 
 +-----------------------+--------------------------------------------+
 |  ``space`` + ``LMB``  |  move view                                 |
